@@ -1,0 +1,188 @@
+{
+        "name": "",
+		"video_url": "",
+		"video_720url": "",
+		"video_1080url": "",
+        "release_date": "", //(ex. day-month-year)
+        "quality": "",
+        "age_rating": "",
+        "duration": "", 
+        "synopsis": "",//add movie or series keywords 
+		"description": "//add movie or series keywords  
+        "image_url": "", 
+        "rating": "",
+        "timestamp": 
+    }
+    
+	
+	{
+    
+            
+    "//add name": {
+        "seasons": {
+            "Season 1": {
+                "episodes": [
+                    {
+                        "name": "Episode1",
+                        "video_url": "",
+                        "video_720url": "",
+                        "video_1080url": "",
+                        "release_date": "", //ex(day-month-year)
+                        "quality": "",
+                        "age_rating": "",
+                        "duration": "",
+                        "synopsis": ""
+						"description": "" //add 250 or more words
+                    },
+                    {
+                        "name": "Episode 2...etc",
+                        "video_url": "",
+                        "release_date": "",
+                        "quality": "",
+                        "age_rating": "",
+                        "duration": "",
+                        "synopsis": ""
+                    }
+                ]
+            },
+            "Season 2..etc": {
+                "episodes": [
+                    {
+                        "name": "",
+                        "video_url": "",
+                        "release_date": "",
+                        "quality": "",
+                        "age_rating": "",
+                        "duration": "",
+                        "synopsis": ""
+                    },
+                    {
+                        "name": "",
+                        "video_url": "",
+                        "release_date": "",
+                        "quality": "",
+                        "age_rating": "",
+                        "duration": "",
+                        "synopsis": ""
+                    }
+                ]
+            }
+        }
+    }
+}
+
+Here’s a list of some of the **best article submission websites** where you can publish articles to boost your content’s visibility and improve **SEO**:
+
+### 1. **Medium**
+   - **Website**: [medium.com](https://medium.com)
+   - **Why it’s great**: Medium is a popular platform where users can submit articles on almost any topic. It has a huge audience, making it easy for your articles to reach a wider range of readers.
+   - **Benefits**:
+     - SEO-friendly
+     - Built-in audience
+     - Clean and professional interface
+
+### 2. **LinkedIn Articles**
+   - **Website**: [linkedin.com](https://linkedin.com)
+   - **Why it’s great**: LinkedIn allows you to submit long-form articles, and it's perfect for professional content. It’s a good way to build authority and network in your industry.
+   - **Benefits**:
+     - High domain authority
+     - Professional networking
+     - Suitable for B2B content
+
+### 3. **EzineArticles**
+   - **Website**: [ezinearticles.com](https://ezinearticles.com)
+   - **Why it’s great**: EzineArticles is a well-known article submission site with high domain authority. Submitting articles here can help increase backlinks and drive traffic to your website.
+   - **Benefits**:
+     - High-quality link building
+     - Increased traffic
+     - High domain authority
+
+### 4. **HubPages**
+   - **Website**: [hubpages.com](https://hubpages.com)
+   - **Why it’s great**: HubPages is a great platform for sharing knowledge-based content. It allows users to write about various topics, providing a community-driven space to publish and get feedback.
+   - **Benefits**:
+     - Large user community
+     - Ad revenue sharing
+     - Easy-to-use editor
+
+### 5. **ArticleBiz**
+   - **Website**: [articlebiz.com](https://articlebiz.com)
+   - **Why it’s great**: ArticleBiz allows you to submit articles on a variety of topics, and it has good visibility for SEO purposes. It’s a great site for boosting traffic.
+   - **Benefits**:
+     - Free article submission
+     - SEO benefits
+     - Large reader base
+
+### 6. **ArticleCity**
+   - **Website**: [articlecity.com](https://articlecity.com)
+   - **Why it’s great**: ArticleCity offers free article submission services and allows you to reach a large audience with your content. It is a great platform for gaining exposure and backlinks.
+   - **Benefits**:
+     - High domain authority
+     - Quick article approval
+     - Good for backlinking
+
+### 7. **Quora**
+   - **Website**: [quora.com](https://quora.com)
+   - **Why it’s great**: While Quora is primarily a Q&A site, you can submit long-form, detailed answers that can serve as articles. You can also link back to your website.
+   - **Benefits**:
+     - Boosts website traffic
+     - Builds authority in your niche
+     - Engages an active community
+
+### 8. **Substack**
+   - **Website**: [substack.com](https://substack.com)
+   - **Why it’s great**: Substack is designed for newsletters, but it’s also a powerful article submission platform. You can reach audiences via email and build a direct relationship with your readers.
+   - **Benefits**:
+     - Grow an email list
+     - Direct interaction with readers
+     - Monetization opportunities
+
+### 9. **Buzzle**
+   - **Website**: [buzzle.com](https://buzzle.com)
+   - **Why it’s great**: Buzzle is an editorial platform that accepts high-quality articles on a wide range of topics. It’s ideal for building backlinks and gaining more visibility.
+   - **Benefits**:
+     - High traffic site
+     - Strict editorial guidelines ensure quality
+     - SEO-friendly
+
+### 10. **Sooper Articles**
+   - **Website**: [sooperarticles.com](https://sooperarticles.com)
+   - **Why it’s great**: Sooper Articles allows authors to submit articles for free and offers a user-friendly interface. It has a strong readership and helps in SEO ranking through backlinks.
+   - **Benefits**:
+     - SEO-friendly
+     - Quick approval process
+     - Free to use
+
+### 11. **Tumblr**
+   - **Website**: [tumblr.com](https://tumblr.com)
+   - **Why it’s great**: Although Tumblr is known for microblogging, it also allows for full-length article submissions. It’s a great platform to share content with a young, engaged audience.
+   - **Benefits**:
+     - Highly shareable
+     - Increases brand visibility
+     - SEO-friendly
+
+### 12. **Issuu**
+   - **Website**: [issuu.com](https://issuu.com)
+   - **Why it’s great**: Issuu is a digital publishing platform that lets you submit articles and even publish magazines or booklets. It’s excellent for visually appealing content.
+   - **Benefits**:
+     - Good for long-form articles
+     - Visually engaging content
+     - SEO-optimized
+
+---
+
+### Tips for Submitting Articles Successfully:
+1. **Write high-quality, original content** that provides value to the readers.
+2. **Include relevant keywords** to improve SEO and reach a wider audience.
+3. **Optimize your title and meta description** to increase click-through rates.
+4. Ensure that your articles are properly formatted and easy to read.
+5. **Include internal and external links** to boost credibility and authority.
+
+By submitting to these platforms, you can drive more traffic, improve your SEO rankings, and grow your brand's online presence.
+
+### Popular Hashtags for Article Sharing:
+- **#ArticleSubmission**
+- **#ContentMarketing**
+- **#FreeContentPublishing**
+- **#SubmitArticlesOnline**
+- **#SEOBoostingContent**

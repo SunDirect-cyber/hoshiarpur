@@ -1,0 +1,361 @@
+[
+
+{
+    "name": "Breaking Bad",
+    "release_date": "20-01-2008",
+    "quality": "HD",
+    "age_rating": "18",
+    "duration": "47 min per episode", 
+    "synopsis": "A high school chemistry teacher turned methamphetamine manufacturer partners with a former student to secure his family's financial future while navigating the dangers of the drug trade.",
+    "image_url": "https://image.tmdb.org/t/p/original/ztkUQFLlC19CCMYHW9o1zWhJRNq.jpg",
+    "canoncial": "https://cineaura.in/home.php",
+    "rating": "9.5/10",
+    "timestamp": 1
+},
+
+{
+    "name": "Blood Drive",
+    "release_date": "14-06-2017",
+    "quality": "HD",
+    "age_rating": "TV-MA",
+    "duration": "60 minutes per episode",
+    "synopsis": "Set in a dystopian future, 'Blood Drive' follows a former cop who is forced to participate in a cross-country death race. The series is filled with bloodthirsty drivers, twisted challenges, and dark humor as contestants race for their lives.",
+    "image_url": "https://image.tmdb.org/t/p/original/qB9PBQMyKrp8diKGxVpfayKZbgd.jpg",
+    "canoncial": "https://cineaura.in/home.php",
+    "rating": "7.5",
+    "timestamp": 4
+},
+{
+    "name": "Panchayat Season 3",
+    "release_date": "15-05-2024", 
+    "quality": "HD",
+    "age_rating": "TV-PG",
+    "duration": "4 hours 30 minutes", 
+    "canoncial": "https://cineaura.in/home.php",
+    "synopsis": "In Season 3, Abhishek navigates new challenges as the Pradhan of the village, facing political intrigue, social issues, and personal growth.",
+    "image_url": "https://image.tmdb.org/t/p/original/hFNANSq7eunt0xAExXekSesaUJG.jpg",
+    "rating": "8.7/10",
+    "timestamp": 8
+},
+{
+    "name": "Vinland Saga",
+    "release_date": "07-July-2019",  
+    "quality": "HD",
+    "age_rating": "R - 17+",
+    "duration": "24 min per episode",
+    "canoncial": "https://cineaura.in/home.php",
+    "synopsis": "Vinland Saga is a story of a young Viking warrior named Thorfinn, driven by revenge against his father’s killer, set against the backdrop of the rising power of England under King Canute.",
+    "image_url": "https://image.tmdb.org/t/p/original/glSIuIhAmL08IGkPsDreIHgcs6E.jpg",
+    "rating": "8.7",
+    "timestamp": 9
+},
+{
+    "name": "Scott Pilgrim",
+    "release_date": "17-August-2024",  
+    "quality": "HD",
+    "age_rating": "PG-13",
+    "duration": "24 min per episode",
+    "canoncial": "https://cineaura.in/home.php",
+    "synopsis": "Scott Pilgrim, a young slacker and bassist for the band Sex Bob-Omb, must defeat his new girlfriend's seven evil exes in order to win her heart. Set in a quirky, action-packed world where video game tropes and indie rock meet.",
+    "image_url": "https://image.tmdb.org/t/p/original/nHROk2C6bv8LqtvyYd0tCMURbxC.jpg",
+    "rating": "8.2",
+    "timestamp": 10
+},
+
+    {
+        "name": "She Professed Herself Pupil of the Wise Man",
+        "release_date": "07-01-2022", 
+        "quality": "HD",
+        "age_rating": "PG-13",
+        "duration": "24 min per episode", 
+        "canoncial": "https://cineaura.in/home.php",
+        "synopsis": "In a world where magic is the norm, a young girl becomes the pupil of a wise man, discovering new powers and adventures along the way.",
+        "image_url": "https://image.tmdb.org/t/p/original/eDSsaZZVQD0rjrMazEIWrYUJHPk.jpg",
+        "rating": "8.5/10",
+        "timestamp": 11
+    },
+	{
+    "name": "Daemon Anime Series",
+    "release_date": "01-10-2024",  
+    "quality": "HD",
+    "age_rating": "PG-13",
+    "duration": "24 min per episode",
+    "canoncial": "https://cineaura.in/home.php",
+    "synopsis": "In a world where demons and humans coexist, a young hero embarks on a quest to uncover the secrets of an ancient prophecy that could alter the fate of both realms.",
+    "image_url": "https://image.tmdb.org/t/p/original/5bWTE3CwBM6z8lew9BPykujeNwG.jpg",
+    "rating": "8.5",
+    "timestamp": 12
+},
+{
+    "name": "Elite",
+    "release_date": "05-10-2018",
+    "quality": "HD",
+    "age_rating": "TV-MA",
+    "duration": "60 min per episode",
+    "canoncial": "https://cineaura.in/home.php",
+    "synopsis": "Elite follows the lives of three working-class teens who receive scholarships to attend Las Encinas, an exclusive private school in Spain. As they struggle to fit into their new elite surroundings, they find themselves entangled in a web of drama, including romance, betrayal, and murder. The series explores themes of social class, privilege, and the dark secrets hidden beneath the glamorous surface of high society.",
+    "description": "Elite (2018) is a Spanish thriller series created by Carlos Montero and Dario Madrona. The show dives into the complex world of high society through the lens of three students from less privileged backgrounds who are granted scholarships to an elite school. The series quickly unfolds into a gripping narrative filled with intrigue, scandal, and mystery. As the students navigate their new environment, they encounter a blend of glamorous yet troubling situations, leading to unexpected twists and turns. The show is known for its fast-paced storytelling, diverse characters, and the exploration of social issues and personal conflicts. With its mix of suspense and drama, Elite has captivated audiences with its portrayal of the dark side of privilege and the impact of secrets on young lives.",
+    "image_url": "https://image.tmdb.org/t/p/original/hMNi01KTkQ13kc6dNLX04Jvm4m7.jpg",
+    "rating": "7.8/10",
+    "timestamp": 39
+},
+{
+    "name": "Campus Diaries",
+    "release_date": "17-January-2022",
+    "quality": "HD",
+    "age_rating": "16+",
+    "duration": "45 minutes per episode", 
+    "canoncial": "https://cineaura.in/home.php",
+    "synopsis": "Campus Diaries is a coming-of-age drama that revolves around the lives of six college students navigating through various challenges, friendships, relationships, and personal growth during their time at college.",
+	"description": "Campus Diaries is a Hindi-language web series that captures the raw, relatable, and often unpredictable experiences of college life. Released in 2022, this show dives deep into the challenges of youth — ranging from the pressures of academics to dealing with friendships, love, heartbreak, and self-discovery. Unlike traditional portrayals of college life, 'Campus Diaries' offers a more unfiltered look at the personal dilemmas faced by young adults. Each episode intricately weaves together the stories of six main characters, each with their unique backgrounds and aspirations. As the characters struggle to find their place in the world, they experience life's highs and lows, learning valuable lessons along the way. The show brings out topics such as peer pressure, mental health, relationships, and the importance of standing up for one’s beliefs. With a blend of humor, drama, and moments of introspection, 'Campus Diaries' is more than just another college drama; it’s a journey through the struggles and victories of early adulthood, making it relatable for its target audience.",
+    "image_url": "https://image.tmdb.org/t/p/original/vCyjgGQmCzOIhAG0pF7G0k3tKfA.jpg",
+    "rating": "8.2/10",
+    "timestamp": 40
+},
+{
+    "name": "College Romance",
+    "release_date": "07-August-2018",
+    "quality": "HD",
+    "age_rating": "16+",
+    "duration": "30-35 minutes per episode", 
+    "canoncial": "https://cineaura.in/home.php",
+    "synopsis": "College Romance follows the hilarious and heartwarming journeys of three close friends as they navigate love, relationships, and friendships during their college years.",
+	"description": "College Romance is an Indian web series that blends humor, romance, and drama to create an engaging portrayal of college life. Released in 2018, this series quickly gained popularity for its relatable characters and lighthearted take on the ups and downs of student life. The story revolves around three best friends, Trippy, Naira, and Karan, who are all seeking love and fun while trying to balance the chaos of college. The show captures the carefree spirit of youth, exploring themes like friendships, dating, misunderstandings, and the social challenges that come with being a college student. The series is peppered with moments of genuine emotion, where characters learn valuable life lessons about relationships, trust, and the importance of friendship. 'College Romance' is widely appreciated for its witty dialogue, quirky characters, and easygoing narrative that doesn’t shy away from addressing the common hurdles young adults face in their formative years. Viewers are taken through romantic entanglements, comic situations, and the close bonds that form in college settings. For anyone who has experienced the highs and lows of student life, 'College Romance' resonates deeply, making it one of the most popular college-centric web series in India. With its sharp humor and lovable characters, it manages to strike a perfect balance between entertainment and emotion.",
+    "image_url": "https://image.tmdb.org/t/p/original/6yHDAINBCC7oTXDKnYYlJ8XpJm6.jpg", 
+    "rating": "8.4/10",
+    "timestamp": 41
+},
+{
+    "name": "The Boys",
+    "release_date": "26-July-2019",
+    "quality": "HD",
+    "age_rating": "18+",
+    "duration": "55-60 minutes per episode", 
+    "canoncial": "https://cineaura.in/home.php",
+    "synopsis": "The Boys is a dark and satirical take on the superhero genre, exploring the corruption and moral ambiguity of super-powered individuals who are controlled by a powerful corporation.",
+	"description": "The Boys is a gritty, action-packed web series that turns the traditional superhero genre on its head. Set in a world where superheroes are not the noble protectors they claim to be, the series showcases a darker, more twisted reality. Released in 2019, the show is based on the comic book series by Garth Ennis and Darick Robertson. It follows a group of vigilantes, known as 'The Boys,' who are determined to bring down a group of corrupt and morally questionable superheroes, led by the egotistical and violent Homelander. The series dives into themes of power, corruption, and corporate greed as it critiques the way super-powered individuals are commercialized and controlled by Vought International, a powerful corporation that manages these 'heroes.' With a mix of dark humor, intense violence, and biting social commentary, The Boys explores how unchecked power can lead to moral decay. The Boys themselves are ordinary people, each with their own traumatic pasts, but they are united by their desire to expose the truth about the so-called heroes and bring them to justice. The show’s intense action sequences, shocking plot twists, and strong character development make it one of the most gripping superhero series in recent years. The Boys is more than just an anti-hero story—it is a provocative and often brutal exploration of how power can corrupt, and it challenges viewers to question who the real heroes and villains are.",
+    "image_url": "https://image.tmdb.org/t/p/original/2zmTngn1tYC1AvfnrFLhxeD82hz.jpg",
+    "rating": "8.7/10",
+    "timestamp": 106
+},
+{
+    "name": "Stranger Things",
+    "release_date": "15-July-2016",
+    "quality": "HD",
+    "age_rating": "16+",
+    "duration": "50 minutes per episode", 
+    "canoncial": "https://cineaura.in/home.php",
+    "synopsis": "A group of young friends in a small town uncover a series of supernatural mysteries involving a girl with psychokinetic abilities and a secret government experiment gone wrong.",
+    "description": "Stranger Things is a critically acclaimed science fiction and horror series created by the Duffer Brothers. Set in the 1980s, the story revolves around a group of children in the fictional town of Hawkins, Indiana. When one of their friends, Will Byers, goes missing under mysterious circumstances, his friends, along with a strange girl named Eleven, embark on a dangerous journey to uncover the truth. Eleven, who has escaped from a government lab, possesses telekinetic powers and is key to solving the mystery. As the children dig deeper, they discover that their town is connected to a parallel dimension called the Upside Down, filled with terrifying creatures and dark forces. The series blends nostalgia, horror, and heartfelt moments of friendship, making it one of Netflix's most popular original shows. With its strong performances, particularly from the young cast, and its gripping storyline, Stranger Things has gained a massive fanbase worldwide. Over its multiple seasons, it continues to explore the lives of its central characters as they face new supernatural threats and try to protect their town from the growing influence of the Upside Down.",
+    "image_url": "https://image.tmdb.org/t/p/original/uOOtwVbSr4QDjAGIifLDwpb2Pdl.jpg",
+    "rating": "8.7/10",
+    "timestamp": 104
+},
+{
+    "name": "Money Heist",
+    "release_date": "2-May-2017",
+    "quality": "HD",
+    "age_rating": "18+",
+    "duration": "60 minutes per episode", 
+    "canoncial": "https://cineaura.in/home.php",
+    "synopsis": "A criminal mastermind, known as The Professor, assembles a group of eight skilled thieves to pull off the biggest heist in history by breaking into the Royal Mint of Spain.",
+    "description": "Money Heist (La Casa de Papel) is a Spanish heist crime drama television series created by Álex Pina. The story centers around a man, known as 'The Professor,' who plans the most ambitious heist ever conducted: to rob the Royal Mint of Spain. To execute his plan, he recruits eight criminals, each with a unique skill, and codenames them after cities: Tokyo, Berlin, Nairobi, Rio, Denver, Helsinki, Moscow, and Oslo. They take hostages inside the mint as part of their strategy to buy time and print billions of euros. The story delves deep into the psychological battles between the robbers and the police, especially with Inspector Raquel Murillo, who becomes intricately involved with The Professor. As the series progresses, it explores themes of rebellion, loyalty, and resistance against the system. With its captivating plot twists, complex characters, and emotional moments, Money Heist gained immense popularity worldwide, becoming one of Netflix’s most-watched non-English series. Each season builds upon the tension and stakes as the group faces external and internal challenges. The show’s iconic red jumpsuits and Salvador Dalí masks have become symbols of resistance and rebellion in popular culture.",
+    "image_url": "https://image.tmdb.org/t/p/original/reEMJA1uzscCbkpeRJeTT2bjqUp.jpg",
+    "rating": "8.2/10",
+    "timestamp": 44
+},
+{
+    "name": "Mismatched",
+    "release_date": "20-November-2020",
+    "quality": "HD",
+    "age_rating": "13+",
+    "duration": "35-40 minutes per episode", 
+    "canoncial": "https://cineaura.in/home.php",
+    "synopsis": "Mismatched is a lighthearted rom-com series about two young adults who are paired together in a coding class but discover they are polar opposites in every way.",
+	"description": "Mismatched is an Indian coming-of-age romantic comedy-drama series that first aired in November 2020. Based on Sandhya Menon’s novel 'When Dimple Met Rishi,' the show centers on Dimple, a tech-savvy and ambitious young woman, and Rishi, a hopeless romantic who believes in traditional values. Set against the backdrop of a coding class, the series explores their journey as they are unexpectedly paired together, leading to humorous, awkward, and heartfelt moments.Dimple has her heart set on making a career in app development, while Rishi is attending the course with the hopes of meeting his future wife. The contrast between their personalities sets the stage for conflict, misunderstandings, and eventually, a budding friendship. Alongside their evolving relationship, the series also delves into the lives of their classmates, highlighting the struggles, ambitions, and complexities of young adulthood. The show is full of charming and relatable moments that capture the essence of modern-day relationships, self-discovery, and the pressure to meet expectations. Mismatched resonates with its audience for its fun, light narrative and for touching on deeper themes like identity, family, and the pursuit of one’s dreams. It’s a feel-good series that appeals to both younger audiences and fans of romantic comedies.",
+    "image_url": "https://image.tmdb.org/t/p/original/kSAckGd9Lg1ikXA48OAIkoii4x3.jpg",
+    "rating": "7.3/10",
+    "timestamp": 45
+},
+{
+	"name": "Flames",
+	"release_date": "05-Jan-2018",
+	"quality": "1080p",
+	"age_rating": "13+",
+	"duration": "20-30 minutes per episode",
+	"canoncial": "https://cineaura.in/home.php",
+	"synopsis": "Flames is a coming-of-age romance web series that revolves around two high school students, Rajat and Ishita, as they navigate their emotions, school life, and the ups and downs of young love. Set in a coaching institute, it beautifully captures the innocence of first love and the emotional roller-coaster that comes with it.",
+	"description": "Flames is an Indian web series that resonates with anyone who has experienced the sweet innocence of first love. Set against the backdrop of a Delhi coaching center, the series follows the love story of Rajat, a shy and studious teenager, and Ishita, a charming and intelligent girl who joins his tuition class. Their story unfolds in the heart of their shared academic pressure, evolving from friendship into a heartfelt teenage romance.\n\nWhat makes Flames stand out is its portrayal of real-life situations that almost anyone who’s been through school or teenage love can relate to. The show's simplicity, realistic characters, and heartwarming plot have made it widely loved, especially among younger viewers. Over the course of two seasons, Rajat and Ishita’s relationship grows in small, significant ways, capturing the insecurities, innocence, and nervousness that come with young love.\n\nWith a strong focus on the struggles of adolescence, friendship, family relationships, and first experiences with love, the show has been praised for its relatability and emotional depth. Flames strikes a perfect balance between drama and comedy, with moments that make you smile, reminisce, and occasionally tear up. The show has earned a devoted fanbase thanks to its touching narrative, relatable characters, and charming execution.",
+	"image_url": "https://image.tmdb.org/t/p/original/i8Nq7YiYcgbLdcBMbxUmHfcYBwM.jpg",
+	"rating": "8.5/10",
+	"timestamp": 46
+},
+{
+	"name": "Game of Thrones",
+	"release_date": "17-Apr-2011",
+	"quality": "4K UHD",
+	"age_rating": "18+",
+	"duration": "8 seasons, 73 episodes, ~60 minutes per episode",
+	"canoncial": "https://cineaura.in/home.php",
+	"synopsis": "Game of Thrones is an epic fantasy television series based on George R.R. Martin's series of novels, 'A Song of Ice and Fire.' The show is set in the fictional continents of Westeros and Essos and follows several noble families as they vie for control of the Iron Throne and the Seven Kingdoms. The series is known for its complex characters, intricate political plots, and dramatic twists.",
+	"description": "Game of Thrones is a groundbreaking television series that has captivated audiences worldwide with its intricate storytelling and rich fantasy world. Based on George R.R. Martin's acclaimed 'A Song of Ice and Fire' novels, the show takes place in the expansive and tumultuous world of Westeros and Essos, where noble families and power struggles dominate the landscape.\n\nThe series begins with the Stark family, who become entangled in a battle for the Iron Throne after the death of their friend, the King of the Seven Kingdoms. As the political machinations unfold, viewers are introduced to a vast array of characters, each with their own ambitions, loyalties, and secrets. The show’s plot weaves together themes of power, betrayal, honor, and revenge, with frequent and unpredictable twists that keep audiences on the edge of their seats.\n\nThroughout its eight seasons, Game of Thrones has been praised for its stunning production values, intricate narrative, and character development. It features a complex web of alliances and rivalries, including the battle between the Night's Watch and the undead White Walkers, which adds a supernatural element to the series' political intrigue. The show also explores the personal struggles of its characters, providing a deeper look at their motivations and desires.\n\nThe series has left an indelible mark on popular culture and is known for its shocking moments and moral ambiguity. Game of Thrones received numerous awards and critical acclaim, cementing its place as one of the most influential and discussed television shows of the 21st century.",
+	"image_url": "https://image.tmdb.org/t/p/original/1XS1oqL89opfnbLl8WnZY1O1uJx.jpg",
+	"rating": "9.3/10",
+	"timestamp": 47
+},
+{
+    "name": "Sex and Education",
+    "release_date": "07-September-2024",
+    "quality": "1080p",
+    "age_rating": "18+",
+    "duration": "45 minutes each",
+    "canoncial": "https://cineaura.in/home.php",
+    "synopsis": "A drama series that explores the complexities of relationships, identity, and education in the modern world. Set in a high school environment, the series focuses on how students navigate sexuality, mental health, and academic pressures.",
+    "description": "Sex and Education brings fresh narratives about how young people are shaping their identities while confronting a range of social and personal challenges. The series delves into topics often considered taboo, providing a platform for honest conversations.",
+    "image_url": "https://image.tmdb.org/t/p/original/4Bph0hhnDH6dpc0SZIV522bLm4P.jpg",
+    "rating": "4.5/5",
+    "timestamp": 49
+},
+{
+    "name": "Lost in Space",
+    "release_date": "13-04-2018", 
+    "quality": "1080p",
+    "age_rating": "PG",
+    "duration": "60 minutes per episode",
+    "canoncial": "https://cineaura.in/home.php",
+    "synopsis": "In the reimagined 'Lost in Space,' the Robinson family is among the chosen few to colonize a distant planet, but their journey takes a perilous turn when their spaceship veers off course. Stranded on an unknown and hostile world, the family must overcome numerous challenges to survive and find a way back home, all while navigating through internal conflicts and discovering the secrets of their new environment.",
+    "description": "'Lost in Space' is a modern remake of the classic 1960s sci-fi series. Created by Matt Sazama and Burk Sharpless, the series combines adventure, drama, and exploration with high-quality visual effects and a compelling storyline. The show features a talented cast led by Toby Stephens, Molly Parker, and Parker Posey. With its emphasis on family dynamics, survival, and the unknown, 'Lost in Space' offers an engaging and thrilling experience as the Robinsons face both external and internal threats in their quest for survival.",
+    "image_url": "https://image.tmdb.org/t/p/original/y8NJnTXzb4rio9uvVYFVrXEMofU.jpg",
+    "rating": "7.3/10",
+    "timestamp": 76
+},
+{
+    "name": "Berlin",
+    "release_date": "25-02-2024",
+    "quality": "HD",
+    "age_rating": "R",
+    "duration": "2h 15m",
+    "canoncial": "https://cineaura.in/home.php",
+    "synopsis": "'Berlin' is a tense political thriller set in the Cold War era. The film follows an undercover agent who is sent to the divided city of Berlin, where he must navigate a web of espionage, betrayal, and political intrigue to prevent a looming international crisis.",
+    "description": "Set against the backdrop of a divided Berlin, 'Berlin' is a gripping thriller that plunges viewers into the high-stakes world of espionage. The film centers around Agent Mark, a seasoned intelligence officer tasked with a critical mission to infiltrate an enemy spy network operating in the heart of the city. As the tension between East and West escalates, Mark finds himself entangled in a deadly game of cat and mouse, where trust is a rare commodity and betrayal is around every corner. The film’s atmosphere is intense, capturing the paranoia and danger of Cold War Berlin with exceptional cinematography. From dimly lit back alleys to shadowy meetings in underground clubs, the visuals add to the film’s edge-of-your-seat suspense. The character of Mark is portrayed with depth, highlighting the personal sacrifices he makes in the name of duty and the emotional toll of a life lived in constant danger. With pulse-pounding action sequences, unpredictable plot twists, and a haunting score, 'Berlin' delivers a powerful commentary on the human cost of political conflict and the blurred lines between right and wrong in a world defined by secrecy.",
+    "image_url": "https://image.tmdb.org/t/p/original/69YuvoiWTtK6oyYH2Jl4Q6SgZ59.jpg",
+    "rating": "8.7/10",
+    "timestamp": 105
+},
+{
+    "name": "Regular Show",
+    "release_date": "06-September-2010", 
+    "quality": "720p", 
+    "age_rating": "TV-PG", 
+    "duration": "11 min per episode", 
+    "canoncial": "https://cineaura.in/home.php",
+    "synopsis": "Regular Show follows the lives of two best friends, Mordecai, a blue jay, and Rigby, a raccoon, as they navigate absurd adventures and mundane tasks in their workplace, a local park.", 
+    "description": "Regular Show is an animated television series that centers on Mordecai and Rigby, two underachieving friends who work as groundskeepers at a park. Their everyday tasks often spiral into surreal, outlandish, and sometimes dangerous adventures involving interdimensional beings, time travel, and supernatural forces. With a quirky sense of humor and a mix of bizarre yet relatable moments, the show appeals to both kids and adults. The show blends slapstick comedy with more mature themes of friendship, responsibility, and personal growth. Created by J.G. Quintel, Regular Show became a cult hit for its unique storytelling and colorful characters, earning multiple awards and a loyal fanbase throughout its eight-season run.", 
+    "image_url": "https://image.tmdb.org/t/p/original/mS5SLxMYcKfUxA0utBSR5MOAWWr.jpg", 
+    "rating": "8.4", 
+    "timestamp": 110
+},
+{
+    "name": "The Penguin",
+    "release_date": "25-October-2024", 
+    "quality": "1080p", 
+    "age_rating": "TV-MA", 
+    "duration": "60 min per episode", 
+    "canoncial": "https://cineaura.in/home.php",
+    "synopsis": "The Penguin (2024) is a crime drama series that follows the rise of Oswald Cobblepot, also known as The Penguin, as he consolidates power in Gotham’s underworld after the events of 'The Batman'.", 
+    "description": "Set in the gritty world of Gotham City, The Penguin (2024) is a spinoff series from 'The Batman' (2022), focusing on Oswald Cobblepot’s ruthless rise to become one of the city's most feared crime bosses. The series delves into the dark underworld of Gotham as Cobblepot, played by Colin Farrell, navigates the treacherous criminal landscape left in the wake of a power vacuum. With violent clashes, deep betrayals, and political corruption at its core, The Penguin promises to deliver a raw and intense portrayal of Gotham’s darker elements. As Cobblepot manipulates his way through the ranks, viewers witness his transformation into the iconic villain known as The Penguin. The show combines crime drama, intense character study, and action-packed moments, making it a must-watch for fans of the DC Universe.", 
+    "image_url": "https://image.tmdb.org/t/p/original/7I3EypifSHlW1BmmHbXXevqUUA7.jpg", 
+    "rating": "8.6", 
+    "timestamp": 111
+},
+{
+    "name": "Agatha: All Along",
+    "release_date": "14-February-2024", 
+    "quality": "1080p", 
+    "age_rating": "TV-14", 
+    "duration": "50 min per episode", 
+    "canoncial": "https://cineaura.in/home.php",
+    "synopsis": "Agatha: All Along (2024) is a Marvel spinoff series centered on the powerful and cunning witch Agatha Harkness, exploring her dark magic and mysterious past in the Marvel Cinematic Universe.", 
+    "description": "Agatha: All Along (2024) brings the spotlight to the fan-favorite villain from WandaVision, Agatha Harkness, played by Kathryn Hahn. The series delves into Agatha's origins, her mastery of dark magic, and her manipulation of the mystical forces that have shaped her journey. Set in the Marvel Cinematic Universe, the show provides a deeper look at Agatha's motives and the events that led her to clash with Wanda Maximoff. As Agatha navigates new challenges and powerful enemies, viewers will discover the true extent of her abilities and the secrets she's been hiding. Blending humor, drama, and supernatural thrills, Agatha: All Along promises a captivating mix of Marvel’s signature storytelling with a darker, more magical twist. With strong performances, engaging plotlines, and connections to the larger MCU, the series is set to be a highlight for Marvel fans in 2024.", 
+    "image_url": "https://image.tmdb.org/t/p/original/1tfCj5h0FEQ5xg8hzVjQgcuGlgN.jpg", 
+    "rating": "8.2", 
+    "timestamp": 112
+},
+{
+    "name": "Monsters",
+    "release_date": "12-March-2024", 
+    "quality": "1080p", 
+    "age_rating": "TV-MA", 
+    "duration": "60 min per episode", 
+    "canoncial": "https://cineaura.in/home.php",
+    "synopsis": "Monsters (2024) is a horror anthology series that delves into the dark, eerie, and supernatural, exploring terrifying creatures and unsettling stories from across different eras and locations.", 
+    "description": "Monsters (2024) brings a fresh take on the horror anthology format, with each episode telling a different story about humanity's most feared creatures, myths, and legends. From ancient beasts to futuristic monsters, the series taps into primal fears and delivers heart-pounding terror. Each episode is directed by a different visionary, offering a unique visual and narrative style that keeps the series engaging and unpredictable. The show's storytelling mixes supernatural horror, psychological thrills, and moments of raw, visceral dread. With high production values, chilling atmospheres, and disturbing encounters, Monsters (2024) promises to captivate horror fans while pushing the boundaries of fear and imagination. The series explores the unknown, from demonic entities to otherworldly creatures, making it an unmissable experience for anyone who loves a good scare.", 
+    "image_url": "https://image.tmdb.org/t/p/original/x9YC2rpXHUFMqI1hCekKDm9UE4w.jpg", 
+    "rating": "8.0", 
+    "timestamp": 113
+},
+{
+    "name": "Naruto Shippuden",
+    "release_date": "15-February-2007", 
+    "quality": "720p", 
+    "age_rating": "TV-14", 
+    "duration": "23 min per episode", 
+    "canoncial": "https://cineaura.in/home.php",
+    "synopsis": "Naruto Shippuden follows the story of Naruto Uzumaki as he returns to his village after years of training to continue his journey to become the strongest ninja and to save his friend Sasuke from darkness.", 
+    "description": "Naruto Shippuden is the second part of the beloved anime series Naruto, set two and a half years after Naruto Uzumaki leaves for intense training. As Naruto returns to Konoha, the story focuses on his growth as a ninja, both in power and maturity, as well as his mission to rescue his best friend Sasuke Uchiha from the clutches of the villainous Orochimaru. The series dives deeper into the complex relationships, rivalries, and legendary battles between the characters. Naruto Shippuden is known for its high-stakes fights, intense emotional moments, and the exploration of powerful themes such as friendship, loss, and redemption. With over 500 episodes, the show keeps audiences engaged through its thrilling storytelling, dynamic action, and character development, making it one of the most iconic anime series in history.", 
+    "image_url": "https://image.tmdb.org/t/p/original/kV27j3Nz4d5z8u6mN3EJw9RiLg2.jpg", 
+    "rating": "9.0", 
+    "timestamp": 116
+},
+{
+    "name": "Demon Slayer: Kimetsu no Yaiba",
+    "release_date": "06-April-2019",
+    "quality": "HD",
+    "age_rating": "TV-MA",
+    "duration": "23 episodes (approx. 24 minutes each)",
+    "canoncial": "https://cineaura.in/home.php",
+    "synopsis": "After his family is slaughtered by demons, Tanjiro Kamado becomes a demon slayer to avenge them and cure his sister, Nezuko.",
+    "description": "Demon Slayer: Kimetsu no Yaiba is a breathtaking anime series that follows the journey of Tanjiro Kamado, a young boy living in Taisho-era Japan. After his family is brutally slaughtered by demons, he is left devastated but determined to avenge their deaths. His sister, Nezuko, is the sole survivor, but she has been transformed into a demon herself. Rather than succumb to despair, Tanjiro embarks on a perilous journey to become a Demon Slayer, aiming to find a way to turn Nezuko back into a human and rid the world of demons. The series is renowned for its stunning animation, courtesy of Ufotable, which brings to life exhilarating battle sequences and the beautiful landscapes of Japan. As Tanjiro trains under skilled mentors, he encounters a host of other demon slayers, each with unique abilities and backstories, further enriching the narrative. Themes of resilience, familial bonds, and the struggle between good and evil are intricately woven throughout the series, resonating with viewers. With emotional depth, well-developed characters, and a compelling storyline, Demon Slayer has quickly become a cultural phenomenon, earning numerous awards and a dedicated fanbase around the world.",
+    "image_url": "https://image.tmdb.org/t/p/original/3daOEMQCOGU2n9EbUC0PICnUCek.jpg",
+    "rating": "8.6/10",
+    "timestamp": 135
+},
+{
+    "name": "Naruto",
+    "release_date": "03-10-2002",
+    "quality": "HD",
+    "age_rating": "TV-PG",
+    "duration": "22 minutes per episode",
+    "canoncial": "https://cineaura.in/home.php",
+    "synopsis": "Naruto Uzumaki, a young ninja with a sealed demon fox within him, aspires to become the Hokage, the leader of his village, and earn the respect of his peers. Throughout his journey, he faces various challenges, forms strong bonds with his friends, and battles formidable foes.",
+    "description": "Naruto is a Japanese manga and anime series created by Masashi Kishimoto, which became a cultural phenomenon worldwide. The story follows Naruto Uzumaki, a young ninja from the Hidden Leaf Village who dreams of becoming Hokage, the village leader, to gain recognition and respect from his peers. The series is divided into two parts: the first part chronicles Naruto's childhood and early teenage years, while the second part, *Naruto: Shippuden*, continues his journey as a teenager. The anime adaptation includes a total of 220 episodes for the original series and 500 for *Shippuden*, capturing Naruto's growth, friendships, and battles against various villains. Key themes include friendship, perseverance, and self-discovery. The series has received critical acclaim and has spawned numerous films, video games, and merchandise, solidifying its place as one of the best-selling manga series of all time.",
+    "image_url": "https://image.tmdb.org/t/p/original/xppeysfvDKVx775MFuH8Z9BlpMk.jpg",
+    "rating": "8.3/10",
+    "timestamp": 164
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+]

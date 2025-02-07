@@ -1,0 +1,9 @@
+User-agent: *
+Disallow: /admin/
+Disallow: /login/
+Disallow: /register/
+
+User-agent: Googlebot
+Allow: /
+
+Sitemap: https://www.cineaura.in/sitemap.xml

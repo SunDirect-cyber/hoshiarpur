@@ -1,0 +1,44 @@
+{
+    "Match of the Day": {
+        "seasons": {
+            "Season 1": {
+                "episodes": [
+                    {
+                        "name": "Episode 1",
+                        "video_url": "https://example.com/video1",
+                        "release_date": "01-01-2024",
+                        "quality": "HD",
+                        "age_rating": "PG-13",
+                        "duration": "45 min",
+                        "synopsis": "Synopsis of Episode 1",
+                        "description": "Detailed description of Episode 1"
+                    },
+                    {
+                        "name": "Episode 2",
+                        "video_url": "https://example.com/video2",
+                        "release_date": "08-01-2024",
+                        "quality": "HD",
+                        "age_rating": "PG-13",
+                        "duration": "50 min",
+                        "synopsis": "Synopsis of Episode 2",
+                        "description": "Detailed description of Episode 2"
+                    }
+                ]
+            },
+            "Season 2": {
+                "episodes": [
+                    {
+                        "name": "Episode 1",
+                        "video_url": "https://example.com/video3",
+                        "release_date": "01-02-2024",
+                        "quality": "HD",
+                        "age_rating": "PG-13",
+                        "duration": "50 min",
+                        "synopsis": "Synopsis of Episode 1",
+                        "description": "Detailed description of Episode 1"
+                    }
+                ]
+            }
+        }
+    }
+}
